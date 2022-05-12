@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.7",
+    "mocha": "^9.2.2",
+    "solc": "^0.4.17",
+    "web3": "^1.7.3"
+  },
+  "name": "lotterynew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
